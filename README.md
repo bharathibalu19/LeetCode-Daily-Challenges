@@ -18,5 +18,6 @@ and Algorithms problems using Python.
 | Day | Problem | Difficulty | Topic |
 |---|---|---|---|
 | 001 | Number of Sub-arrays With Odd Sum | Medium | Prefix Sum |
+| 002 | 2911. Minimum Changes to Make K Semi-palindromes | Hard | DP |
 
 More solutions coming soon! 💻
